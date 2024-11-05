@@ -1,4 +1,4 @@
-# Bash Command Line Interface
+# Bash for Python
 
 This is a simple Bash-like command line interface implemented in Python, allowing users to perform basic file and directory operations.
 
