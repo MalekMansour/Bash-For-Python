@@ -1,5 +1,5 @@
 # Bash for Python
-
+* Author: Malek Mansour
 This is a simple Bash-like command line interface implemented in Python, allowing users to perform basic file and directory operations.
 
 ## Features
