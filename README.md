@@ -12,9 +12,8 @@ This is a simple Bash-like command line interface implemented in Python, allowin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/MalekMansour/Bash-For-Python
    cd your-repository
-
 
 ## Available Commands
 
